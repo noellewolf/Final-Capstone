@@ -24,8 +24,6 @@ img {
     vertical-align: middle;
     border-style: none;
 }
-/* About Me 
----------------------*/
 .about-text h3 {
   font-size: 45px;
   font-weight: 700;
@@ -53,7 +51,6 @@ img {
   font-weight: 600;
   color: #20247b;
 }
-
 .about-list {
   padding-top: 10px;
 }
@@ -88,13 +85,11 @@ img {
   margin: 0;
   font-size: 15px;
 }
-
 @media (max-width: 991px) {
   .about-avatar {
     margin-top: 30px;
   }
 }
-
 .about-section .counter {
   padding: 22px 20px;
   background: #ffffff;
@@ -129,11 +124,9 @@ mark {
 .dark-color {
     color: #20247b;
 }
-
 .justify-center {
 	justify-content: center;
 }
-
 .margin-bottom {
 	margin-bottom: 40px;
 }
