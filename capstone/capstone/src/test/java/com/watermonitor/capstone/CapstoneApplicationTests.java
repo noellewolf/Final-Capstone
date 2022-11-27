@@ -10,4 +10,3 @@ class CapstoneApplicationTests {
 	void contextLoads() {
 	}
 }
-
